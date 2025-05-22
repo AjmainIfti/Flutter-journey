@@ -1,5 +1,5 @@
-<h1 align="center">Flutter and Dart!!!</h1>
-<h3 align="center">Here are the files and basic projects I am currently doing while learning flutter and dart</h3>
+<h1 align="center">Currently learning! Stay tuned :) </h1>
+<h3 align="center">Here will be files and basic projects I'll create while learning flutter and dart</h3>
 
 ## 🤔 What's in this repo :
 <img align="right" height="120" src="https://media1.tenor.com/m/Ug6cbVA1ZsMAAAAd/developer.gif" />
